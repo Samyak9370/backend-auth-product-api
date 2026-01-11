@@ -44,3 +44,25 @@ and CRUD operations for a secondary entity (Products).
 
 ## 🧪 API Documentation
 Swagger UI available at: http://localhost:8080/swagger-ui.html
+
+---
+
+## 🗄 Database
+- MySQL
+- Entities: User, Product
+- Clean relational schema using JPA annotations
+
+---
+
+## ▶️ How to Run Backend
+
+### Prerequisites
+- Java 17
+- Maven
+- MySQL running
+
+### Steps
+```bash
+mvn clean
+mvn spring-boot:run
+
