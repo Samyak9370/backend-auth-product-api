@@ -43,4 +43,4 @@ and CRUD operations for a secondary entity (Products).
 ---
 
 ## 🧪 API Documentation
-Swagger UI available at:
+Swagger UI available at: http://localhost:8080/swagger-ui.html
